@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/wormgpt",
+      "destination": "https://zieecantikkk-api.vercel.app/api/wormgpt"
+    }
+  ]
+}
